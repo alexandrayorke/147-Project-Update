@@ -1,6 +1,4 @@
-/**
- * Introduction to Human-Computer Interaction
- */
+
 var PORT = 3000;
 
 // Express is a web framework for node.js

@@ -2,26 +2,24 @@
   "name": "147-Project-Update",
   "version": "0.0.0",
   "description": "147 project app",
-  "main": "server.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
-  },
+  "author": "Alex Yorke, Lily Sierra, Ariel Posner"
+
   "repository": {
     "type": "git",
     "url": "https://github.com/alexandrayorke/147-Project-Update.git"
   },
-  "keywords": [
-    "project"
-  ],
-  "author": "alex yorke",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/alexandrayorke/147-Project-Update/issues"
+
+  "license": "MIT",
+
+  "scripts": {
+    "start": "node app.js"
   },
-  "homepage": "https://github.com/alexandrayorke/147-Project-Update",
+
   "dependencies": {
-    "logfmt": "~0.20.0",
-    "express": "~3.4.8"
+    "express": "3.x"
+  },
+  
+  "engines": {
+    "node": "0.10.x"
   }
 }

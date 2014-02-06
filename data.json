@@ -1,0 +1,14 @@
+{
+"userData:" [
+	{
+	"name": "Alex Yorke",
+	"email": "ayorke@stanford.edu",
+	"password": "tyler"
+	},
+	{
+	"name": "Lily Sierra",
+	"email" : "lilys@stanford.edu",
+	"password" : "stanford"
+		}
+	]
+}
